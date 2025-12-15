@@ -1,2 +1,6 @@
-# java_Project
-Java swing - cinema program
+### java_Project
+## Java Swing - Cinema Management System
+
+---
+
+
